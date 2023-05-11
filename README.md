@@ -15,3 +15,4 @@ Espera a que el chatbot genere una respuesta y la muestre en la pantalla.
 Si quieres copiar el contenido del mensaje al portapapeles, haz clic en el primer botón en la parte superior del elemento del mensaje.
 Si quieres tomar una captura del mensaje y mostrarla en la parte inferior de la página, haz clic en el segundo botón en la parte superior del elemento del mensaje.
 Si quieres que el texto del mensaje sea leído en voz alta, haz clic en el tercer botón en la parte superior del elemento del mensaje.
+![Captura de pantalla del proyecto](assets/Captura.png)
