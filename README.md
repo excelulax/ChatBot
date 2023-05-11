@@ -9,10 +9,10 @@ Este proyecto está realizado en HTML, Tailwind CSS y JavaScript. Para ejecutarl
 Para usar el chatbot, sigue estos pasos:
 
 Abre el archivo index.html en tu navegador.
-- Ingresa tu pregunta en la caja de texto.
-- Haz clic en el botón “Enviar” para enviar tu pregunta.
-- Espera a que el chatbot genere una respuesta y la muestre en la pantalla.
-- Si quieres copiar el contenido del mensaje al portapapeles, haz clic en el primer botón en la parte superior del elemento del mensaje.
-- Si quieres tomar una captura del mensaje y mostrarla en la parte inferior de la página, haz clic en el segundo botón en la parte superior del elemento del mensaje.
-- Si quieres que el texto del mensaje sea leído en voz alta, haz clic en el tercer botón en la parte superior del elemento del mensaje.
+1. Ingresa tu pregunta en la caja de texto.
+2. Haz clic en el botón “Enviar” para enviar tu pregunta.
+3. Espera a que el chatbot genere una respuesta y la muestre en la pantalla.
+4. Si quieres copiar el contenido del mensaje al portapapeles, haz clic en el primer botón en la parte superior del elemento del mensaje.
+5. Si quieres tomar una captura del mensaje y mostrarla en la parte inferior de la página, haz clic en el segundo botón en la parte superior del elemento del mensaje.
+6. Si quieres que el texto del mensaje sea leído en voz alta, haz clic en el tercer botón en la parte superior del elemento del mensaje.
 ![Captura de pantalla del proyecto](assets/Captura.png)
